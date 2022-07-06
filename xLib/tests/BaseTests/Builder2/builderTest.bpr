@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="builderTest.exe"/>
+    <OBJFILES value="D:\TEMP\OBJ\UnitMain.obj D:\TEMP\OBJ\xxArray.obj D:\TEMP\OBJ\xxAtom.obj 
+      D:\TEMP\OBJ\xxContainerAdapters.obj D:\TEMP\OBJ\xxDataAccess.obj 
+      D:\TEMP\OBJ\xxDateTime.obj D:\TEMP\OBJ\xxDecodeStr.obj 
+      D:\TEMP\OBJ\xxList.obj D:\TEMP\OBJ\xxOperators.obj 
+      D:\TEMP\OBJ\xxProperty.obj D:\TEMP\OBJ\xxPtr.obj 
+      D:\TEMP\OBJ\xxSmallStr.obj D:\TEMP\OBJ\xxSpinLock.obj 
+      D:\TEMP\OBJ\xxTypeInfo.obj D:\TEMP\OBJ\xxTypes.obj 
+      D:\TEMP\OBJ\xxCompare.obj D:\TEMP\OBJ\xxFind.obj D:\TEMP\OBJ\xxPortion.obj 
+      D:\TEMP\OBJ\xxBorlandDateTimeDecode.obj 
+      D:\TEMP\OBJ\xxNoThreadAtomicRoutines.obj 
+      D:\TEMP\OBJ\xxWindowsAtomicRoutines.obj D:\TEMP\OBJ\xxConsoleLogger.obj 
+      D:\TEMP\OBJ\xxCRC.obj D:\TEMP\OBJ\xxEAN_8_13.obj 
+      D:\TEMP\OBJ\xxFileBuffer.obj D:\TEMP\OBJ\xxFileDirWork.obj 
+      D:\TEMP\OBJ\xxLogger.obj D:\TEMP\OBJ\xxTxtProvider.obj 
+      D:\TEMP\OBJ\xxLibTest.obj D:\TEMP\OBJ\xXML_OBJ_Test.obj 
+      D:\TEMP\OBJ\DateTime_test.obj D:\TEMP\OBJ\xArrayTest.obj 
+      D:\TEMP\OBJ\xFindSpeedTest.obj D:\TEMP\OBJ\xListTest.obj 
+      D:\TEMP\OBJ\xPTR_Test.obj D:\TEMP\OBJ\xxDinamicPubObject.obj 
+      D:\TEMP\OBJ\xxFileObj.obj D:\TEMP\OBJ\xxObjSerialization.obj 
+      D:\TEMP\OBJ\xxPubObjects.obj D:\TEMP\OBJ\xxStaticPubObject.obj 
+      D:\TEMP\OBJ\xxXMLObjSerialization.obj D:\TEMP\OBJ\xxCodePages.obj 
+      D:\TEMP\OBJ\xxCP1251.obj D:\TEMP\OBJ\xxUTF8.obj 
+      D:\TEMP\OBJ\xxSimpleSVG.obj D:\TEMP\OBJ\xxThread.obj 
+      D:\TEMP\OBJ\xThreadTest.obj D:\TEMP\OBJ\xSocketsTest.obj 
+      D:\TEMP\OBJ\xxGTLPixel.obj D:\TEMP\OBJ\xxSockets.obj 
+      D:\TEMP\OBJ\xxCommunication.obj"/>
+    <RESFILES value="builderTest.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES)"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value=""/>
+    <SPARELIBS value="rtl.lib vcl.lib dbrtl.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi dbrtl.bpi adortl.bpi vcldb.bpi vclx.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi vclie.bpi xmlrtl.bpi inet.bpi 
+      inetdbbde.bpi inetdbxpress.bpi inetdb.bpi nmfast.bpi webdsnap.bpi 
+      bcbie.bpi websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      indy.bpi bcb2kaxserver.bpi my.bpi EhLibB60.bpi kbmMemC6Run.bpi 
+      tdbf_c6r.bpi MemTableEhB6.bpi A406_R61.bpi"/>
+    <PATHCPP value=".;..\..\..\Base;..\..\..\Base\Algorithms;..\..\..\Base\NATIVE;..\..\..\Utils;..\..\Units;..\..\..\PubObjects;..\..\..\UNICODE;..\..\..\Graphics;..\..\..\Graphics\GTL;..\..\..\Communication"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT;_RTLDLL;USEPACKAGES"/>
+    <MAINSOURCE value="builderTest.bpf"/>
+    <INCLUDEPATH value="..\..\..\Communication;..\..\..\Graphics\GTL;..\..\..\Graphics;..\..\..\UNICODE;..\..\..\PubObjects;..\..\Units;&quot;C:\Program Files\Borland\CBuilder6\Bin&quot;;..\..\..\Utils;..\..\..\Base\NATIVE;..\..\..\Base\Algorithms;..\..\..\Base;D:\!Work\!Trade\xLib\tests\BaseTests\Builder2;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="..\..\..\Communication;..\..\..\Graphics\GTL;..\..\..\Graphics;..\..\..\UNICODE;..\..\..\PubObjects;..\..\Units;&quot;C:\Program Files\Borland\CBuilder6\Bin&quot;;..\..\..\Utils;..\..\..\Base\NATIVE;..\..\..\Base\Algorithms;..\..\..\Base;$(BCB)\Projects\Lib;D:\!Work\!Trade\xLib\tests\BaseTests\Builder2;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I..\..\..\Communication -I..\..\..\Graphics\GTL -I..\..\..\Graphics 
+      -I..\..\..\UNICODE -I..\..\..\PubObjects -I..\..\Units 
+      -I&quot;C:\Program Files\Borland\CBuilder6\Bin&quot; -I..\..\..\Utils 
+      -I..\..\..\Base\NATIVE -I..\..\..\Base\Algorithms -I..\..\..\Base 
+      -ID:\!Work\!Trade\xLib\tests\BaseTests\Builder2 -I$(BCB)\include 
+      -I$(BCB)\include\vcl -src_suffix cpp -D_DEBUG -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -tWC 
+      -tWM -c"/>
+    <PFLAGS value="-N2D:\TEMP\OBJ -N0D:\TEMP\OBJ -$Y+ -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-ID:\TEMP\OBJ -D&quot;&quot; -ap -Tpe -x -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0x32.obj $(PACKAGES) Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="builderTest.res" FORMNAME="" UNITNAME="builderTest.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="builderTest.bpf" FORMNAME="" UNITNAME="builderTest" CONTAINERID="BPF" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UnitMain.cpp" FORMNAME="" UNITNAME="UnitMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxArray.cpp" FORMNAME="" UNITNAME="xxArray.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxAtom.cpp" FORMNAME="" UNITNAME="xxAtom.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxContainerAdapters.cpp" FORMNAME="" UNITNAME="xxContainerAdapters.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxDataAccess.cpp" FORMNAME="" UNITNAME="xxDataAccess.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxDateTime.cpp" FORMNAME="" UNITNAME="xxDateTime.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxDecodeStr.cpp" FORMNAME="" UNITNAME="xxDecodeStr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxList.cpp" FORMNAME="" UNITNAME="xxList.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxOperators.cpp" FORMNAME="" UNITNAME="xxOperators.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxProperty.cpp" FORMNAME="" UNITNAME="xxProperty.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxPtr.cpp" FORMNAME="" UNITNAME="xxPtr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxSmallStr.cpp" FORMNAME="" UNITNAME="xxSmallStr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxSpinLock.cpp" FORMNAME="" UNITNAME="xxSpinLock.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxTypeInfo.cpp" FORMNAME="" UNITNAME="xxTypeInfo.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\xxTypes.cpp" FORMNAME="" UNITNAME="xxTypes.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\Algorithms\xxCompare.cpp" FORMNAME="" UNITNAME="xxCompare.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\Algorithms\xxFind.cpp" FORMNAME="" UNITNAME="xxFind.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\Algorithms\xxPortion.cpp" FORMNAME="" UNITNAME="xxPortion.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\NATIVE\xxBorlandDateTimeDecode.cpp" FORMNAME="" UNITNAME="xxBorlandDateTimeDecode.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\NATIVE\xxNoThreadAtomicRoutines.cpp" FORMNAME="" UNITNAME="xxNoThreadAtomicRoutines.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Base\NATIVE\xxWindowsAtomicRoutines.cpp" FORMNAME="" UNITNAME="xxWindowsAtomicRoutines.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxConsoleLogger.cpp" FORMNAME="" UNITNAME="xxConsoleLogger.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxCRC.cpp" FORMNAME="" UNITNAME="xxCRC.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxEAN_8_13.cpp" FORMNAME="" UNITNAME="xxEAN_8_13.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxFileBuffer.cpp" FORMNAME="" UNITNAME="xxFileBuffer.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxFileDirWork.cpp" FORMNAME="" UNITNAME="xxFileDirWork.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxLogger.cpp" FORMNAME="" UNITNAME="xxLogger.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxTxtProvider.cpp" FORMNAME="" UNITNAME="xxTxtProvider.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xxLibTest.cpp" FORMNAME="" UNITNAME="xxLibTest" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xXML_OBJ_Test.cpp" FORMNAME="" UNITNAME="xXML_OBJ_Test.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\DateTime_test.cpp" FORMNAME="" UNITNAME="DateTime_test.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xArrayTest.cpp" FORMNAME="" UNITNAME="xArrayTest.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xFindSpeedTest.cpp" FORMNAME="" UNITNAME="xFindSpeedTest.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xListTest.cpp" FORMNAME="" UNITNAME="xListTest.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xPTR_Test.cpp" FORMNAME="" UNITNAME="xPTR_Test.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\PubObjects\xxDinamicPubObject.cpp" FORMNAME="" UNITNAME="xxDinamicPubObject.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\PubObjects\xxFileObj.cpp" FORMNAME="" UNITNAME="xxFileObj.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\PubObjects\xxObjSerialization.cpp" FORMNAME="" UNITNAME="xxObjSerialization.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\PubObjects\xxPubObjects.cpp" FORMNAME="" UNITNAME="xxPubObjects.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\PubObjects\xxStaticPubObject.cpp" FORMNAME="" UNITNAME="xxStaticPubObject.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\PubObjects\xxXMLObjSerialization.cpp" FORMNAME="" UNITNAME="xxXMLObjSerialization.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\UNICODE\xxCodePages.cpp" FORMNAME="" UNITNAME="xxCodePages.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\UNICODE\xxCP1251.cpp" FORMNAME="" UNITNAME="xxCP1251.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\UNICODE\xxUTF8.cpp" FORMNAME="" UNITNAME="xxUTF8.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Graphics\xxSimpleSVG.cpp" FORMNAME="" UNITNAME="xxSimpleSVG" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Utils\xxThread.cpp" FORMNAME="" UNITNAME="xxThread" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xThreadTest.cpp" FORMNAME="" UNITNAME="xThreadTest" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Units\xSocketsTest.cpp" FORMNAME="" UNITNAME="xSocketsTest" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Graphics\GTL\xxGTLPixel.cpp" FORMNAME="" UNITNAME="xxGTLPixel" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Communication\xxSockets.cpp" FORMNAME="" UNITNAME="xxSockets" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\..\Communication\xxCommunication.cpp" FORMNAME="" UNITNAME="xxCommunication" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1049
+CodePage=1251
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=2
+Item0=..\..\..\Graphics\GTL;..\..\..\Graphics;..\..\..\UNICODE;..\..\..\PubObjects;..\..\Units;C:\Program Files\Borland\CBuilder6\Bin;..\..\..\Utils;..\..\..\Base\NATIVE;..\..\..\Base\Algorithms;..\..\..\Base;D:\!Work\!Trade\xLib\tests\BaseTests\Builder2;$(BCB)\include;$(BCB)\include\vcl
+Item1=..\..\..\Graphics;..\..\..\UNICODE;..\..\..\PubObjects;..\..\Units;C:\Program Files\Borland\CBuilder6\Bin;..\..\..\Utils;..\..\..\Base\NATIVE;..\..\..\Base\Algorithms;..\..\..\Base;D:\!Work\!Trade\xLib\tests\BaseTests\Builder2;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=2
+Item0=..\..\..\Graphics\GTL;..\..\..\Graphics;..\..\..\UNICODE;..\..\..\PubObjects;..\..\Units;C:\Program Files\Borland\CBuilder6\Bin;..\..\..\Utils;..\..\..\Base\NATIVE;..\..\..\Base\Algorithms;..\..\..\Base;$(BCB)\Projects\Lib;D:\!Work\!Trade\xLib\tests\BaseTests\Builder2;$(BCB)\lib\obj;$(BCB)\lib
+Item1=..\..\..\Graphics;..\..\..\UNICODE;..\..\..\PubObjects;..\..\Units;C:\Program Files\Borland\CBuilder6\Bin;..\..\..\Utils;..\..\..\Base\NATIVE;..\..\..\Base\Algorithms;..\..\..\Base;$(BCB)\Projects\Lib;D:\!Work\!Trade\xLib\tests\BaseTests\Builder2;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=1
+Item0=D:\TEMP\OBJ
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

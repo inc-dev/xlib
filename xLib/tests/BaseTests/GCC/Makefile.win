@@ -1,0 +1,84 @@
+# Project: Test
+# Compiler: Default GCC compiler
+# Compiler Type: MingW 3
+# Makefile created by wxDev-C++ 6.10.2 on 18.04.11 17:56
+
+CPP       = g++.exe
+CC        = gcc.exe
+WINDRES   = windres.exe
+OBJ       = Objects/MingW/main.o Objects/MingW/xAtom.o Objects/MingW/xDataAccess.o Objects/MingW/xTypeInfo.o Objects/MingW/xTypes.o Objects/MingW/xBase.o Objects/MingW/xArray.o Objects/MingW/xArrayTest.o Objects/MingW/xFind.o Objects/MingW/xPortion.o Objects/MingW/xCompare.o Objects/MingW/xOperators.o Objects/MingW/xArraySpeedTest.o Objects/MingW/xFindSpeedTest.o Objects/MingW/xList.o Objects/MingW/xListTest.o Objects/MingW/xPtr.o Objects/MingW/xPTR_Test.o
+LINKOBJ   = Objects/MingW/main.o Objects/MingW/xAtom.o Objects/MingW/xDataAccess.o Objects/MingW/xTypeInfo.o Objects/MingW/xTypes.o Objects/MingW/xBase.o Objects/MingW/xArray.o Objects/MingW/xArrayTest.o Objects/MingW/xFind.o Objects/MingW/xPortion.o Objects/MingW/xCompare.o Objects/MingW/xOperators.o Objects/MingW/xArraySpeedTest.o Objects/MingW/xFindSpeedTest.o Objects/MingW/xList.o Objects/MingW/xListTest.o Objects/MingW/xPtr.o Objects/MingW/xPTR_Test.o
+LIBS      = -L"C:/Program Files/Dev-Cpp/Lib"  -g3 
+INCS      = -I"include"
+CXXINCS   = -I"C:/Program Files/Dev-Cpp/lib/gcc/mingw32/3.4.2/include" -I"C:/Program Files/Dev-Cpp/include/c++/3.4.2/backward" -I"C:/Program Files/Dev-Cpp/include/c++/3.4.2/mingw32" -I"C:/Program Files/Dev-Cpp/include/c++/3.4.2" -I"C:/Program Files/Dev-Cpp/include" -I"C:/Program Files/Dev-Cpp/" -I"C:/Program Files/Dev-Cpp/include/common/wx/msw" -I"C:/Program Files/Dev-Cpp/include/common/wx/generic" -I"C:/Program Files/Dev-Cpp/include/common/wx/fl" -I"C:/Program Files/Dev-Cpp/include/common/wx/gizmos" -I"C:/Program Files/Dev-Cpp/include/common/wx/html" -I"C:/Program Files/Dev-Cpp/include/common/wx/mmedia" -I"C:/Program Files/Dev-Cpp/include/common/wx/net" -I"C:/Program Files/Dev-Cpp/include/common/wx/ogl" -I"C:/Program Files/Dev-Cpp/include/common/wx/plot" -I"C:/Program Files/Dev-Cpp/include/common/wx/protocol" -I"C:/Program Files/Dev-Cpp/include/common/wx/stc" -I"C:/Program Files/Dev-Cpp/include/common/wx/svg" -I"C:/Program Files/Dev-Cpp/include/common/wx/xml" -I"C:/Program Files/Dev-Cpp/include/common/wx/xrc" -I"C:/Program Files/Dev-Cpp/include/common/wx" -I"C:/Program Files/Dev-Cpp/include/common"
+RCINCS    = --include-dir "C:/PROGRA~1/Dev-Cpp/include/common"
+BIN       = Output/MingW/Test.exe
+DEFINES   = 
+CXXFLAGS  = $(CXXINCS) $(DEFINES)   -O3 -g3
+CFLAGS    = $(INCS) $(DEFINES)   -O3 -g3
+GPROF     = gprof.exe
+RM        = rm -f
+LINK      = g++.exe
+
+.PHONY: all all-before all-after clean clean-custom
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	$(RM) $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(LINK) $(LINKOBJ) -o "Output\MingW\Test.exe" $(LIBS)
+
+Objects/MingW/main.o: $(GLOBALDEPS) main.cpp ../../../Base/xBase.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xAtom.h ../../../Base/xDataAccess.h ../../../Base/xList.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xAtom.h ../../../Base/xDataAccess.h ../../../Base/Algorithms/xFind.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/Algorithms/xPortion.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/Algorithms/xCompare.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/xOperators.h ../../../Base/xArray.h ../../../Base/Algorithms/xCompare.h ../../../Base/xPtr.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xAtom.h ../../Units/xArrayTest.h ../../../base/xArray.h ../../../base/xOperators.h ../../Units/xPTR_Test.h ../../Units/xArraySpeedTest.h ../../Units/xFindSpeedTest.h ../../Units/xListTest.h
+	$(CPP) -c main.cpp -o Objects/MingW/main.o $(CXXFLAGS)
+
+Objects/MingW/xAtom.o: $(GLOBALDEPS) ../../../Base/xAtom.cpp ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h
+	$(CPP) -c ../../../Base/xAtom.cpp -o Objects/MingW/xAtom.o $(CXXFLAGS)
+
+Objects/MingW/xDataAccess.o: $(GLOBALDEPS) ../../../Base/xDataAccess.cpp ../../../Base/xDataAccess.h
+	$(CPP) -c ../../../Base/xDataAccess.cpp -o Objects/MingW/xDataAccess.o $(CXXFLAGS)
+
+Objects/MingW/xTypeInfo.o: $(GLOBALDEPS) ../../../Base/xTypeInfo.cpp ../../../Base/xTypeInfo.h ../../../Base/xTypes.h
+	$(CPP) -c ../../../Base/xTypeInfo.cpp -o Objects/MingW/xTypeInfo.o $(CXXFLAGS)
+
+Objects/MingW/xTypes.o: $(GLOBALDEPS) ../../../Base/xTypes.cpp ../../../Base/xTypes.h
+	$(CPP) -c ../../../Base/xTypes.cpp -o Objects/MingW/xTypes.o $(CXXFLAGS)
+
+Objects/MingW/xBase.o: $(GLOBALDEPS) ../../../Base/xBase.cpp ../../../Base/xBase.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xAtom.h ../../../Base/xDataAccess.h ../../../Base/xList.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xAtom.h ../../../Base/xDataAccess.h ../../../Base/Algorithms/xFind.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/Algorithms/xPortion.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/Algorithms/xCompare.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/xOperators.h ../../../Base/xArray.h ../../../Base/Algorithms/xCompare.h ../../../Base/xPtr.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xAtom.h
+	$(CPP) -c ../../../Base/xBase.cpp -o Objects/MingW/xBase.o $(CXXFLAGS)
+
+Objects/MingW/xArray.o: $(GLOBALDEPS) ../../../Base/xArray.cpp ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xDataAccess.h
+	$(CPP) -c ../../../Base/xArray.cpp -o Objects/MingW/xArray.o $(CXXFLAGS)
+
+Objects/MingW/xArrayTest.o: $(GLOBALDEPS) ../../Units/xArrayTest.cpp ../../Units/xArrayTest.h ../../../base/xArray.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xTypes.h ../../../base/xAtom.h ../../../xCompiler.h ../../../base/NATIVE/xWindowsAtomicRoutines.h ../../../base/NATIVE/xNoThreadAtomicRoutines.h ../../../base/xTypes.h ../../../base/xDataAccess.h ../../../base/xOperators.h ../../../base/xArray.h ../../../base/Algorithms/xCompare.h ../../../base/xDataAccess.h ../../../base/xArray.h
+	$(CPP) -c ../../Units/xArrayTest.cpp -o Objects/MingW/xArrayTest.o $(CXXFLAGS)
+
+Objects/MingW/xFind.o: $(GLOBALDEPS) ../../../Base/Algorithms/xFind.cpp ../../../Base/Algorithms/xFind.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xDataAccess.h
+	$(CPP) -c ../../../Base/Algorithms/xFind.cpp -o Objects/MingW/xFind.o $(CXXFLAGS)
+
+Objects/MingW/xPortion.o: $(GLOBALDEPS) ../../../Base/Algorithms/xPortion.cpp ../../../Base/Algorithms/xPortion.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xDataAccess.h
+	$(CPP) -c ../../../Base/Algorithms/xPortion.cpp -o Objects/MingW/xPortion.o $(CXXFLAGS)
+
+Objects/MingW/xCompare.o: $(GLOBALDEPS) ../../../Base/Algorithms/xCompare.cpp ../../../Base/Algorithms/xCompare.h ../../../Base/xDataAccess.h ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xDataAccess.h
+	$(CPP) -c ../../../Base/Algorithms/xCompare.cpp -o Objects/MingW/xCompare.o $(CXXFLAGS)
+
+Objects/MingW/xOperators.o: $(GLOBALDEPS) ../../../Base/xOperators.cpp ../../../Base/xOperators.h ../../../Base/xArray.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xDataAccess.h ../../../Base/Algorithms/xCompare.h ../../../Base/xDataAccess.h ../../../Base/xArray.h
+	$(CPP) -c ../../../Base/xOperators.cpp -o Objects/MingW/xOperators.o $(CXXFLAGS)
+
+Objects/MingW/xArraySpeedTest.o: $(GLOBALDEPS) ../../Units/xArraySpeedTest.cpp ../../Units/xArraySpeedTest.h ../../../base/xArray.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xTypes.h ../../../base/xAtom.h ../../../xCompiler.h ../../../base/NATIVE/xWindowsAtomicRoutines.h ../../../base/NATIVE/xNoThreadAtomicRoutines.h ../../../base/xTypes.h ../../../base/xDataAccess.h
+	$(CPP) -c ../../Units/xArraySpeedTest.cpp -o Objects/MingW/xArraySpeedTest.o $(CXXFLAGS)
+
+Objects/MingW/xFindSpeedTest.o: $(GLOBALDEPS) ../../Units/xFindSpeedTest.cpp ../../Units/xFindSpeedTest.h ../../../base/xBase.h ../../../base/xAtom.h ../../../xCompiler.h ../../../base/NATIVE/xWindowsAtomicRoutines.h ../../../base/NATIVE/xNoThreadAtomicRoutines.h ../../../base/xTypes.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xTypes.h ../../../base/xArray.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xAtom.h ../../../base/xDataAccess.h ../../../base/xList.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xAtom.h ../../../base/xDataAccess.h ../../../base/Algorithms/xFind.h ../../../base/xDataAccess.h ../../../base/xArray.h ../../../base/Algorithms/xPortion.h ../../../base/xDataAccess.h ../../../base/xArray.h ../../../base/Algorithms/xCompare.h ../../../base/xDataAccess.h ../../../base/xArray.h ../../../base/xOperators.h ../../../base/xArray.h ../../../base/Algorithms/xCompare.h ../../../base/xPtr.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xAtom.h
+	$(CPP) -c ../../Units/xFindSpeedTest.cpp -o Objects/MingW/xFindSpeedTest.o $(CXXFLAGS)
+
+Objects/MingW/xList.o: $(GLOBALDEPS) ../../../Base/xList.cpp ../../../Base/xList.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h ../../../Base/xDataAccess.h
+	$(CPP) -c ../../../Base/xList.cpp -o Objects/MingW/xList.o $(CXXFLAGS)
+
+Objects/MingW/xListTest.o: $(GLOBALDEPS) ../../Units/xListTest.cpp ../../Units/xListTest.h ../../../base/xList.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xTypes.h ../../../base/xAtom.h ../../../xCompiler.h ../../../base/NATIVE/xWindowsAtomicRoutines.h ../../../base/NATIVE/xNoThreadAtomicRoutines.h ../../../base/xTypes.h ../../../base/xDataAccess.h ../../Units/xArrayTest.h ../../../base/xArray.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xAtom.h ../../../base/xDataAccess.h ../../../base/xOperators.h ../../../base/xArray.h ../../../base/Algorithms/xCompare.h ../../../base/xDataAccess.h ../../../base/xArray.h
+	$(CPP) -c ../../Units/xListTest.cpp -o Objects/MingW/xListTest.o $(CXXFLAGS)
+
+Objects/MingW/xPtr.o: $(GLOBALDEPS) ../../../Base/xPtr.cpp ../../../Base/xPtr.h ../../../Base/xTypes.h ../../../Base/xTypeInfo.h ../../../Base/xTypes.h ../../../Base/xAtom.h ../../../xCompiler.h ../../../Base/NATIVE/xWindowsAtomicRoutines.h ../../../Base/NATIVE/xNoThreadAtomicRoutines.h ../../../Base/xTypes.h
+	$(CPP) -c ../../../Base/xPtr.cpp -o Objects/MingW/xPtr.o $(CXXFLAGS)
+
+Objects/MingW/xPTR_Test.o: $(GLOBALDEPS) ../../Units/xPTR_Test.cpp ../../Units/xPTR_Test.h ../../../base/xPtr.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xTypes.h ../../../base/xAtom.h ../../../xCompiler.h ../../../base/NATIVE/xWindowsAtomicRoutines.h ../../../base/NATIVE/xNoThreadAtomicRoutines.h ../../../base/xTypes.h ../../Units/xArrayTest.h ../../../base/xArray.h ../../../base/xTypes.h ../../../base/xTypeInfo.h ../../../base/xAtom.h ../../../base/xDataAccess.h ../../../base/xOperators.h ../../../base/xArray.h ../../../base/Algorithms/xCompare.h ../../../base/xDataAccess.h ../../../base/xArray.h
+	$(CPP) -c ../../Units/xPTR_Test.cpp -o Objects/MingW/xPTR_Test.o $(CXXFLAGS)

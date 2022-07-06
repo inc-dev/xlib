@@ -1,0 +1,1994 @@
+<?xml version="1.0"  encoding = "WINDOWS-1251"?>
+<Goods Склад="1">
+ <Товар PLU="1" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="2" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="3" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="4" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="5" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="6" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="7" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="8" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="9" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="10" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="11" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="12" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="13" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="14" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="15" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="16" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="17" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="18" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="19" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="20" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="21" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="22" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="23" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="24" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="25" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="26" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="27" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="28" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="29" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="30" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="31" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="32" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="33" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="34" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="35" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="36" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="37" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="38" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="39" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="40" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="41" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="42" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="43" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="44" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="45" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="46" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="47" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="48" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="49" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="50" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="51" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="52" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="53" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="54" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="55" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="56" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="57" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="58" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="59" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="60" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="61" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="62" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="63" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="64" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="65" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="66" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="67" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="68" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="69" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="70" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="71" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="72" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="73" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="74" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="75" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="76" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="77" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="78" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="79" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="80" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="81" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="82" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="83" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="84" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="85" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="86" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="87" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="88" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="89" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="90" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="91" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="92" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="93" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="94" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="95" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="96" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="97" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="98" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="99" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="100" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="101" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="102" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="103" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="104" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="105" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="106" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="107" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="108" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="109" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="110" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="111" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="112" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="113" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="114" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="115" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="116" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="117" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="118" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="119" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="120" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="121" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="122" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="123" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="124" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="125" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="126" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="127" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="128" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="129" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="130" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="131" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="132" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="133" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="134" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="135" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="136" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="137" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="138" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="139" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="140" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="141" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="142" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="143" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="144" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="145" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="146" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="147" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="148" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="149" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="150" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="151" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="152" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="153" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="154" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="155" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="156" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="157" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="158" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="159" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="160" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="161" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="162" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="163" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="164" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="165" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="166" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="167" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="168" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="169" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="170" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="171" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="172" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="173" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="174" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="175" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="176" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="177" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="178" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="179" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="180" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="181" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="182" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="183" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="184" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="185" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="186" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="187" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="188" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="189" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="190" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="191" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="192" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="193" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="194" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="195" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="196" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="197" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="198" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="199" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="200" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="201" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="202" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="203" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="204" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="205" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="206" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="207" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="208" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="209" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="210" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="211" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="212" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="213" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="214" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="215" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="216" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="217" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="218" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="219" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="220" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="221" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="222" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="223" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="224" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="225" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="226" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="227" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="228" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="229" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="230" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="231" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="232" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="233" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="234" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="235" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="236" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="237" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="238" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="239" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="240" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="241" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="242" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="243" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="244" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="245" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="246" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="247" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="248" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="249" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="250" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="251" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="252" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="253" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="254" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="255" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="256" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="257" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="258" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="259" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="260" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="261" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="262" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="263" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="264" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="265" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="266" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="267" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="268" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="269" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="270" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="271" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="272" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="273" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="274" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="275" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="276" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="277" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="278" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="279" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="280" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="281" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="282" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="283" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="284" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="285" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="286" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="287" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="288" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="289" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="290" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="291" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="292" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="293" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="294" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="295" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="296" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="297" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="298" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="299" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="300" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="301" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="302" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="303" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="304" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="305" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="306" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="307" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="308" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="309" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="310" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="311" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="312" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="313" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="314" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="315" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="316" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="317" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="318" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="319" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="320" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="321" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="322" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="323" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="324" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="325" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="326" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="327" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="328" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="329" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="330" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="331" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="332" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="333" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="334" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="335" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="336" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="337" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="338" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="339" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="340" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="341" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="342" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="343" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="344" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="345" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="346" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="347" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="348" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="349" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="350" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="351" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="352" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="353" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="354" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="355" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="356" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="357" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="358" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="359" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="360" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="361" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="362" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="363" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="364" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="365" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="366" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="367" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="368" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="369" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="370" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="371" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="372" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="373" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="374" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="375" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="376" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="377" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="378" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="379" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="380" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="381" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="382" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="383" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="384" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="385" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="386" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="387" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="388" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="389" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="390" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="391" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="392" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="393" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="394" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="395" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="396" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="397" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="398" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="399" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="400" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="401" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="402" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="403" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="404" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="405" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="406" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="407" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="408" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="409" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="410" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="411" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="412" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="413" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="414" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="415" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="416" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="417" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="418" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="419" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="420" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="421" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="422" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="423" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="424" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="425" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="426" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="427" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="428" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="429" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="430" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="431" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="432" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="433" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="434" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="435" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="436" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="437" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="438" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="439" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="440" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="441" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="442" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="443" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="444" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="445" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="446" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="447" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="448" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="449" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="450" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="451" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="452" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="453" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="454" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="455" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="456" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="457" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="458" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="459" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="460" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="461" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="462" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="463" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="464" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="465" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="466" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="467" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="468" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="469" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="470" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="471" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="472" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="473" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="474" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="475" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="476" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="477" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="478" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="479" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="480" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="481" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="482" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="483" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="484" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="485" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="486" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="487" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="488" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="489" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="490" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="491" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="492" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="493" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="494" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="495" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="496" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="497" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="498" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="499" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="500" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="501" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="502" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="503" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="504" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="505" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="506" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="507" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="508" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="509" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="510" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="511" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="512" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="513" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="514" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="515" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="516" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="517" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="518" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="519" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="520" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="521" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="522" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="523" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="524" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="525" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="526" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="527" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="528" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="529" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="530" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="531" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="532" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="533" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="534" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="535" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="536" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="537" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="538" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="539" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="540" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="541" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="542" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="543" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="544" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="545" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="546" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="547" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="548" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="549" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="550" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="551" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="552" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="553" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="554" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="555" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="556" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="557" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="558" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="559" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="560" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="561" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="562" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="563" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="564" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="565" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="566" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="567" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="568" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="569" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="570" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="571" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="572" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="573" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="574" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="575" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="576" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="577" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="578" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="579" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="580" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="581" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="582" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="583" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="584" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="585" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="586" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="587" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="588" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="589" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="590" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="591" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="592" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="593" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="594" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="595" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="596" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="597" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="598" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="599" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="600" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="601" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="602" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="603" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="604" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="605" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="606" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="607" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="608" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="609" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="610" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="611" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="612" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="613" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="614" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="615" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="616" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="617" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="618" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="619" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="620" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="621" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="622" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="623" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="624" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="625" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="626" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="627" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="628" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="629" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="630" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="631" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="632" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="633" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="634" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="635" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="636" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="637" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="638" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="639" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="640" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="641" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="642" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="643" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="644" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="645" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="646" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="647" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="648" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="649" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="650" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="651" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="652" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="653" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="654" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="655" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="656" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="657" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="658" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="659" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="660" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="661" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="662" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="663" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="664" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="665" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="666" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="667" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="668" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="669" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="670" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="671" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="672" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="673" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="674" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="675" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="676" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="677" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="678" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="679" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="680" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="681" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="682" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="683" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="684" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="685" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="686" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="687" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="688" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="689" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="690" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="691" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="692" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="693" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="694" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="695" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="696" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="697" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="698" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="699" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="700" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="701" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="702" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="703" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="704" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="705" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="706" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="707" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="708" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="709" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="710" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="711" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="712" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="713" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="714" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="715" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="716" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="717" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="718" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="719" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="720" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="721" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="722" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="723" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="724" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="725" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="726" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="727" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="728" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="729" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="730" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="731" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="732" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="733" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="734" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="735" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="736" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="737" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="738" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="739" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="740" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="741" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="742" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="743" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="744" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="745" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="746" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="747" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="748" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="749" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="750" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="751" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="752" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="753" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="754" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="755" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="756" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="757" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="758" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="759" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="760" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="761" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="762" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="763" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="764" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="765" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="766" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="767" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="768" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="769" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="770" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="771" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="772" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="773" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="774" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="775" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="776" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="777" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="778" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="779" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="780" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="781" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="782" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="783" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="784" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="785" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="786" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="787" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="788" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="789" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="790" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="791" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="792" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="793" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="794" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="795" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="796" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="797" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="798" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="799" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="800" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="801" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="802" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="803" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="804" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="805" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="806" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="807" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="808" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="809" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="810" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="811" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="812" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="813" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="814" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="815" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="816" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="817" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="818" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="819" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="820" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="821" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="822" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="823" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="824" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="825" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="826" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="827" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="828" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="829" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="830" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="831" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="832" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="833" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="834" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="835" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="836" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="837" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="838" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="839" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="840" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="841" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="842" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="843" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="844" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="845" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="846" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="847" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="848" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="849" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="850" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="851" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="852" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="853" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="854" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="855" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="856" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="857" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="858" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="859" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="860" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="861" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="862" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="863" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="864" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="865" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="866" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="867" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="868" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="869" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="870" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="871" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="872" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="873" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="874" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="875" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="876" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="877" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="878" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="879" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="880" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="881" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="882" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="883" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="884" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="885" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="886" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="887" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="888" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="889" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="890" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="891" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="892" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="893" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="894" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="895" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="896" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="897" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="898" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="899" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="900" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="901" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="902" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="903" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="904" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="905" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="906" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="907" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="908" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="909" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="910" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="911" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="912" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="913" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="914" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="915" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="916" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="917" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="918" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="919" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="920" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="921" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="922" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="923" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="924" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="925" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="926" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="927" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="928" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="929" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="930" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="931" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="932" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="933" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="934" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="935" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="936" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="937" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="938" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="939" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="940" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="941" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="942" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="943" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="944" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="945" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="946" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="947" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="948" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="949" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="950" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="951" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="952" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="953" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="954" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="955" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="956" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="957" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="958" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="959" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="960" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="961" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="962" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="963" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="964" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="965" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="966" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="967" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="968" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="969" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="970" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="971" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="972" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="973" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="974" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="975" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="976" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="977" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="978" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="979" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="980" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="981" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="982" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="983" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="984" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="985" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="986" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="987" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="988" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="989" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="990" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="991" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5">
+  <Barcode Discont="5%">1234567890123</Barcode>
+ </Товар>
+ <Товар PLU="992" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="993" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="994" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="995" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="996" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="997" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="998" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+ <Товар PLU="999" Name="&amp;&lt;&gt;&quot;&apos;ї;&amp;Товар" Price="55,5" Barcode="1234567890123"/>
+</Goods>

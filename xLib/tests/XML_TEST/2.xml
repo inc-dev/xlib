@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <EcrConfigStoreHdr_T IdFileTypeEcr="115" IdFileTypeData="Configuration" FileVerFormat="256" FileDataType="7" IdEcrModel="0" IdEcrHW="0" CodePageStr="Windows-1251"/>
+    <PrParamEcr_T VerProto="65536" EcrNetCfgRegNum="2882173" EcrHwVer="0" MaxSizeBuf="0" MaxSizeBlockData="8192" EcrModelId="0" EcrModelNameStr="Меркурий-115Ф" EcrLocal="643" EcrLocalStr="RU" EcrCodePage="1251" EcrCodePageStr="Windows-1251" EcrFwVer="300" EcrFwVerStr="115RU300" EcrFwBuild="1000" EcrFwBuildDateTimeStr="15.02.2018" EcrNumFactory="00098787" EcrMode="0" EcrModeStr="Автономный" TaxRegMode="0" TaxationMode="2" EcrNumInnStr="" EcrNumRegStr="" TaxDevNumFactoryStr="8710000101539739" UserNum="0" UserType="1" UserNameStr="" UserPostStr="" MaxNumOptions="98" MaxNumSections="16" MaxNumUsers="17" MaxNumTaxes="5" MaxNumTextHdr="6" MaxNumTextEnd="6" MaxImageWidth="384" MaxImageHeight="192" MaxNumFont="17" MaxValPriceCode="999999" MaxCountPriceCodesBase="10000" MaxSizeJournal="0" EcrSmenaState="0" EcrSmenaLastClosedNum="0" MaxCountFileState="32" CountFileState="0">
+        <PrFileStateList_T IdFileDataType="1" FileCurrVersion="1519137207" FileLastLoadVersion="1519137207" FileLastLoadSize="0" FileLastLoadCrc="0" FileLastLoadStatus="4" FileLastLoadErr="0"/>
+        <PrFileStateList_T IdFileDataType="7" FileCurrVersion="1519137207" FileLastLoadVersion="1519137207" FileLastLoadSize="3092" FileLastLoadCrc="0" FileLastLoadStatus="4" FileLastLoadErr="0"/>
+        <PrFileStateList_T IdFileDataType="32" FileCurrVersion="1519132778" FileLastLoadVersion="1519132778" FileLastLoadSize="0" FileLastLoadCrc="0" FileLastLoadStatus="2" FileLastLoadErr="0"/>
+    </PrParamEcr_T>
+    <PrDescrConfigEcr_T>
+        <PrDescrCfgOptions_T MaxNum="98" CountOptionFlags="3" CountDescrOptions="98">
+            <PrDescrOption_T Num="1" MinVal="0" MaxVal="3" DefVal="0" MaxLen="32" Type="0" UidDescr="50"/>
+            <PrDescrOption_T Num="5" MinVal="1" MaxVal="16" DefVal="16" MaxLen="32" Type="0" UidDescr="2"/>
+            <PrDescrOption_T Num="6" MinVal="1" MaxVal="16" DefVal="16" MaxLen="32" Type="0" UidDescr="47"/>
+            <PrDescrOption_T Num="8" MinVal="0" MaxVal="16" DefVal="1" MaxLen="32" Type="0" UidDescr="49"/>
+            <PrDescrOption_T Num="9" MinVal="0" MaxVal="2" DefVal="2" MaxLen="32" Type="0" UidDescr="3"/>
+            <PrDescrOption_T Num="10" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="4"/>
+            <PrDescrOption_T Num="13" MinVal="0" MaxVal="30" DefVal="1" MaxLen="32" Type="0" UidDescr="5"/>
+            <PrDescrOption_T Num="14" MinVal="0" MaxVal="30" DefVal="1" MaxLen="32" Type="0" UidDescr="6"/>
+            <PrDescrOption_T Num="15" MinVal="1" MaxVal="6" DefVal="1" MaxLen="32" Type="0" UidDescr="7"/>
+            <PrDescrOption_T Num="16" MinVal="0" MaxVal="50000" DefVal="0" MaxLen="32" Type="0" UidDescr="28"/>
+            <PrDescrOption_T Num="17" MinVal="0" MaxVal="3" DefVal="0" MaxLen="32" Type="0" UidDescr="44"/>
+            <PrDescrOption_T Num="18" MinVal="1" MaxVal="5" DefVal="5" MaxLen="32" Type="0" UidDescr="34"/>
+            <PrDescrOption_T Num="19" MinVal="0" MaxVal="3" DefVal="0" MaxLen="32" Type="0" UidDescr="42"/>
+            <PrDescrOption_T Num="20" MinVal="0" MaxVal="5" DefVal="3" MaxLen="32" Type="0" UidDescr="9"/>
+            <PrDescrOption_T Num="21" MinVal="0" MaxVal="3" DefVal="0" MaxLen="32" Type="0" UidDescr="43"/>
+            <PrDescrOption_T Num="22" MinVal="0" MaxVal="5" DefVal="3" MaxLen="32" Type="0" UidDescr="11"/>
+            <PrDescrOption_T Num="24" MinVal="0" MaxVal="1" DefVal="1" MaxLen="32" Type="0" UidDescr="27"/>
+            <PrDescrOption_T Num="25" MinVal="0" MaxVal="1" DefVal="1" MaxLen="32" Type="0" UidDescr="13"/>
+            <PrDescrOption_T Num="26" MinVal="0" MaxVal="600" DefVal="120" MaxLen="32" Type="0" UidDescr="14"/>
+            <PrDescrOption_T Num="27" MinVal="0" MaxVal="120" DefVal="30" MaxLen="32" Type="0" UidDescr="15"/>
+            <PrDescrOption_T Num="28" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="16"/>
+            <PrDescrOption_T Num="29" MinVal="0" MaxVal="3" DefVal="0" MaxLen="32" Type="0" UidDescr="51"/>
+            <PrDescrOption_T Num="30" MinVal="0" MaxVal="5" DefVal="1" MaxLen="32" Type="0" UidDescr="31"/>
+            <PrDescrOption_T Num="31" MinVal="1" MaxVal="254" DefVal="130" MaxLen="32" Type="0" UidDescr="17"/>
+            <PrDescrOption_T Num="33" MinVal="20" MaxVal="29" DefVal="0" MaxLen="32" Type="0" UidDescr="33"/>
+            <PrDescrOption_T Num="39" MinVal="0" MaxVal="1" DefVal="1" MaxLen="32" Type="0" UidDescr="18"/>
+            <PrDescrOption_T Num="40" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="29"/>
+            <PrDescrOption_T Num="41" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="36"/>
+            <PrDescrOption_T Num="48" MinVal="1" MaxVal="7" DefVal="4" MaxLen="32" Type="0" UidDescr="19"/>
+            <PrDescrOption_T Num="49" MinVal="1" MaxVal="15" DefVal="2" MaxLen="32" Type="0" UidDescr="20"/>
+            <PrDescrOption_T Num="50" MinVal="1" MaxVal="15" DefVal="2" MaxLen="32" Type="0" UidDescr="21"/>
+            <PrDescrOption_T Num="51" MinVal="1" MaxVal="15" DefVal="2" MaxLen="32" Type="0" UidDescr="22"/>
+            <PrDescrOption_T Num="53" MinVal="5" MaxVal="17" DefVal="12" MaxLen="32" Type="0" UidDescr="23"/>
+            <PrDescrOption_T Num="54" MinVal="1" MaxVal="15" DefVal="9" MaxLen="32" Type="0" UidDescr="24"/>
+            <PrDescrOption_T Num="55" MinVal="1" MaxVal="15" DefVal="8" MaxLen="32" Type="0" UidDescr="25"/>
+            <PrDescrOption_T Num="56" MinVal="0" MaxVal="3" DefVal="0" MaxLen="32" Type="0" UidDescr="26"/>
+            <PrDescrOption_T Num="57" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="30"/>
+            <PrDescrOption_T Num="58" MinVal="0" MaxVal="2" DefVal="0" MaxLen="32" Type="0" UidDescr="37"/>
+            <PrDescrOption_T Num="59" MinVal="0" MaxVal="2" DefVal="0" MaxLen="32" Type="0" UidDescr="38"/>
+            <PrDescrOption_T Num="60" MinVal="0" MaxVal="2" DefVal="0" MaxLen="32" Type="0" UidDescr="39"/>
+            <PrDescrOption_T Num="61" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="40"/>
+            <PrDescrOption_T Num="62" MinVal="0" MaxVal="1" DefVal="1" MaxLen="32" Type="0" UidDescr="35"/>
+            <PrDescrOption_T Num="63" MinVal="0" MaxVal="1" DefVal="1" MaxLen="32" Type="0" UidDescr="46"/>
+            <PrDescrOption_T Num="80" MinVal="0" MaxVal="1" DefVal="0" MaxLen="32" Type="0" UidDescr="45"/>
+            <box Name="OptionFlags">
+                <PrDescrEnum_T EnumVal="1" EnumName="Разрешено отключение опции"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Разр. изменять при закрытой смене"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="После изменения треб-ся перезапуск"/>
+            </box>
+        </PrDescrCfgOptions_T>
+        <PrDescrCfgSections_T MaxNum="16" MaxSizeName="16" MaxTaxCode="5" MaxSectType="2" UidDescr="0" CountSectTypes="3">
+            <box Name="SectTypes">
+                <PrDescrEnum_T EnumVal="0" EnumName="ЗАКРЫТА"/>
+                <PrDescrEnum_T EnumVal="1" EnumName="ТОРГОВЛЯ"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="УСЛУГИ"/>
+            </box>
+        </PrDescrCfgSections_T>
+        <PrDescrCfgUsers_T MaxNum="17" MaxSizeName="64" MaxSizePost="16" MaxSizePassw="6" MaxSizeInnStr="12" UidDescr="0" CountUsersFlags="9">
+            <box Name="UserTypes">
+                <PrDescrEnum_T EnumVal="1" EnumName="КАССИР"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="АДМИНИСТРАТОР"/>
+            </box>
+            <box Name="UserRights">
+                <PrDescrEnum_T EnumVal="1" EnumName="КАССОВЫЙ РЕЖИМ"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="X-ОТЧЕТЫ"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Z-ОТЧЕТЫ"/>
+                <PrDescrEnum_T EnumVal="8" EnumName="ПРОГРАММИРОВАНИЕ ДАТЫ"/>
+                <PrDescrEnum_T EnumVal="16" EnumName="ПРОГРАММИРОВАНИЕ НАСТРОЕК"/>
+                <PrDescrEnum_T EnumVal="32" EnumName="ПРОГРАММИРОВАНИЕ БАЗ"/>
+                <PrDescrEnum_T EnumVal="64" EnumName="ОПЕРАЦИЯ ВОЗВРАТА"/>
+                <PrDescrEnum_T EnumVal="128" EnumName="ОПЕРАЦИЯ СТОРНИРОВАНИЯ"/>
+                <PrDescrEnum_T EnumVal="256" EnumName="НУЛЕВОЙ ЧЕК"/>
+            </box>
+        </PrDescrCfgUsers_T>
+        <PrDescrCfgTaxes_T MaxNum="5" MaxSizeName="15" MaxTaxType="1" UidDescr="0" CountTaxTypes="2">
+            <box Name="TaxTypes">
+                <PrDescrEnum_T EnumVal="2" EnumName="НАЧИСЛЯЕМЫЙ"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="ВЫДЕЛЯЕМЫЙ"/>
+            </box>
+        </PrDescrCfgTaxes_T>
+        <box Name="TextHdr">
+            <PrDescrCfgText_T Type="2" MaxNum="6" MaxSize="40" MinFont="0" MaxFont="17" UidDescr="0"/>
+        </box>
+        <box Name="TextEnd">
+            <PrDescrCfgText_T Type="0" MaxNum="6" MaxSize="40" MinFont="0" MaxFont="17" UidDescr="0"/>
+        </box>
+        <box Name="ImageHdr">
+            <PrDescrCfgImage_T Type="0" UidDescr="0" MaxWidth="384" MaxHeight="192" MaxSizeData="2048"/>
+        </box>
+        <PrDescrFonts_T MaxNum="17" UidDescr="0" CountFontNames="17">
+            <PrFontTypeEnum_T EnumVal="1" EnumName="40 симв. Узкий без выступов" MaxSizeStr="40"/>
+            <PrFontTypeEnum_T EnumVal="2" EnumName="32 симв. Уменьшенный DejaVu Sans" MaxSizeStr="32"/>
+            <PrFontTypeEnum_T EnumVal="3" EnumName="32 симв. Узкий без выступов" MaxSizeStr="32"/>
+            <PrFontTypeEnum_T EnumVal="4" EnumName="32 симв. Нормальный с уменьшенными выступами" MaxSizeStr="32"/>
+            <PrFontTypeEnum_T EnumVal="5" EnumName="32 симв. Нормальный жирный без выступов" MaxSizeStr="32"/>
+            <PrFontTypeEnum_T EnumVal="6" EnumName="24 симв. Уменьшенный DejaVu Sans" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="7" EnumName="24 симв. Уменьшенный жирный DejaVu Sans" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="8" EnumName="24 симв. Нормальный DejaVu Sans" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="9" EnumName="24 симв. Нормальный с уменьшенными выступами" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="10" EnumName="24 симв. Нормальный жирный с уменьшенными выступами" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="11" EnumName="24 симв. Нормальный жирный без выступов" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="12" EnumName="24 симв. Увеличенный DejaVu Sans" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="13" EnumName="24 симв. Увеличенный с уменьшенными выступами" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="14" EnumName="24 симв. Увеличенный жирный с уменьшенными выступами" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="15" EnumName="24 симв. Увеличенный жирный без выступов" MaxSizeStr="24"/>
+            <PrFontTypeEnum_T EnumVal="16" EnumName="16 симв. Крупный DejaVu Sans" MaxSizeStr="16"/>
+            <PrFontTypeEnum_T EnumVal="17" EnumName="16 симв. Крупный увеличенный DejaVu Sans" MaxSizeStr="16"/>
+        </PrDescrFonts_T>
+        <PrDescrCfgGprs_T MaxSizeStrLogin="32" MaxSizeStrPassw="32" MaxSizeStrApn="32" MaxSizeStrNumBalance="8" UidDescr="0"/>
+        <PrDescrCfgWiFi_T MaxSizeStrSsid="32" MaxSizeStrPassw="32" UidDescr="0" MaxNum="3"/>
+        <PrDescrCfgOfd_T MinPeriodConnSec="0" MaxPeriodConnSec="3600" MinPeriodFMemSec="0" MaxPeriodFMemSec="60" MaxSizeStrUrlServer="256" MaxSizeStrUrlCheck="256" MaxSizeStrNameOfd="256" MaxSizeStrInnOfd="12" MaxSizeStrUrlOfd="256" CountChannelsTypes="5" UidDescr="0">
+            <box Name="ChannelsTypes">
+                <PrDescrEnum_T EnumVal="0" EnumName="Оффлайн"/>
+                <PrDescrEnum_T EnumVal="1" EnumName="Только GPRS"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Только Wi-Fi"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="GPRS - основной, Wi-Fi - резервный"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Wi-Fi - основной, GPRS - резервный"/>
+            </box>
+        </PrDescrCfgOfd_T>
+        <PrDescrCfgFMem_T MaxSizeStrUserName="256" MaxSizeStrAddrCommerce="256" MaxSizeStrPlaceCommerce="256" MaxSizeStrInn="12" MaxSizeStrRegNum="20" MaxSizeStrUrlAddrFns="256" MaxSizeStrMailAddrOwner="256" CountTaxationFlags="6" CountEcrModeFlags="6" CountPayAgentFlags="7" UidDescr="0" CountEcrModeExtFlags="3" MaxSizeStrAutomatNumber="20">
+            <box Name="TaxationFlags">
+                <PrDescrEnum_T EnumVal="1" EnumName="Общая"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Упрощенная: Доход"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Упрощенная: Доход минус Расход"/>
+                <PrDescrEnum_T EnumVal="8" EnumName="Единый налог на вмененный доход"/>
+                <PrDescrEnum_T EnumVal="16" EnumName="Единый сельскохозяйственный налог"/>
+                <PrDescrEnum_T EnumVal="32" EnumName="Патентная система налогообложения"/>
+            </box>
+            <box Name="EcrModeFlags">
+                <PrDescrEnum_T EnumVal="1" EnumName="Шифрование"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Автономный режим"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Автоматический режим"/>
+                <PrDescrEnum_T EnumVal="8" EnumName="Применение в сфере услуг"/>
+                <PrDescrEnum_T EnumVal="16" EnumName="Режим БСО (1) иначе Режим чеков (0)"/>
+                <PrDescrEnum_T EnumVal="32" EnumName="Применение в Интернете"/>
+            </box>
+            <box Name="EcrModeFlagsExt">
+                <PrDescrEnum_T EnumVal="2" EnumName="Проведение азартных игр"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Проведение лотереи"/>
+                <PrDescrEnum_T EnumVal="8" EnumName="Продажа подакцизного товара"/>
+            </box>
+            <box Name="PayAgentFlags">
+                <PrDescrEnum_T EnumVal="1" EnumName="Банковский платёжный агент"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Банковский платёжный субагент"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Платёжный агент"/>
+                <PrDescrEnum_T EnumVal="8" EnumName="Платёжный субагент"/>
+                <PrDescrEnum_T EnumVal="16" EnumName="Поверенный"/>
+                <PrDescrEnum_T EnumVal="32" EnumName="Комиссионер"/>
+                <PrDescrEnum_T EnumVal="64" EnumName="Агент"/>
+            </box>
+        </PrDescrCfgFMem_T>
+        <PrDescrCfgPriceCode_T MaxPlu="999999" MaxEan="999999999999999999" MaxPrice="999999999" MaxSection="16" MaxTax="5" MaxSizeName="56" UidDescr="0" CountPriceCodeFlags="2" MaxPayAgent="16">
+            <box Name="PriceCodeFlags">
+                <PrDescrEnum_T EnumVal="16" EnumName="Только целое количество"/>
+                <PrDescrEnum_T EnumVal="32" EnumName="Блокировка"/>
+            </box>
+            <box Name="PriceCodeTypes">
+                <PrDescrEnum_T EnumVal="0" EnumName="Товар (кроме подакцизного товара)"/>
+                <PrDescrEnum_T EnumVal="1" EnumName="Услуга"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Платеж входящий"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="Платеж исходящий"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Алкоголь (для ЕГАИС)"/>
+                <PrDescrEnum_T EnumVal="5" EnumName="Подакцизный товар кроме алкоголя"/>
+                <PrDescrEnum_T EnumVal="6" EnumName="Выполненная работа"/>
+                <PrDescrEnum_T EnumVal="7" EnumName="Ставка азартной игры"/>
+                <PrDescrEnum_T EnumVal="8" EnumName="Выигрыш азартной игры"/>
+                <PrDescrEnum_T EnumVal="9" EnumName="Лотерейный билет, ставка лотереи"/>
+                <PrDescrEnum_T EnumVal="10" EnumName="Выплата выигрыша в лотерею"/>
+                <PrDescrEnum_T EnumVal="11" EnumName="Результат интеллектульн. деятельн."/>
+                <PrDescrEnum_T EnumVal="12" EnumName="Платеж/выплата"/>
+                <PrDescrEnum_T EnumVal="13" EnumName="Агентское вознаграждение"/>
+                <PrDescrEnum_T EnumVal="14" EnumName="Составной предмет расчета"/>
+                <PrDescrEnum_T EnumVal="15" EnumName="Иной предмет расчета"/>
+            </box>
+        </PrDescrCfgPriceCode_T>
+        <PrDescrPayAgentRec_T MaxPlu="16" MaxSizeTlfStr="11" MaxRewTax="5" MaxSizeOpTransNameStr="64" MaxSizeOpTransAddrStr="64" MaxSizeOpTransINNStr="12" UidDescr="0">
+            <box Name="DescrEnumPayAgTypes">
+                <PrDescrEnum_T EnumVal="1" EnumName="Банковский платёжный агент"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="Банковский платёжный субагент"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="Платёжный агент"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="Платёжный субагент"/>
+                <PrDescrEnum_T EnumVal="5" EnumName="Поверенный"/>
+                <PrDescrEnum_T EnumVal="6" EnumName="Комиссионер"/>
+                <PrDescrEnum_T EnumVal="7" EnumName="Агент"/>
+            </box>
+            <box Name="DescrEnumRewTypes">
+                <PrDescrEnum_T EnumVal="0" EnumName="Процент"/>
+            </box>
+            <box Name="DescrEnumRewCalcTypes">
+                <PrDescrEnum_T EnumVal="2" EnumName="НАЧИСЛЯЕМЫЙ"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="ВЫДЕЛЯЕМЫЙ"/>
+            </box>
+        </PrDescrPayAgentRec_T>
+        <PrDescrCfgTONames_T MaxNum="4" MaxSizeNameStr="56" UidDescr="0" CountDescrBiultTONames="4">
+            <box Name="DescrEnumBiultTONames">
+                <PrDescrEnum_T EnumVal="1" EnumName="НАЗВАНИЕ ПРИХОДА"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="НАЗВАНИЕ ВОЗВРАТА ПРИХОДА"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="НАЗВАНИЕ РАСХОДА"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="НАЗВАНИЕ ВОЗВРАТА РАСХОДА"/>
+            </box>
+        </PrDescrCfgTONames_T>
+        <PrDescrEGAIS_Cfg_T MaxSizeKppStr="9" UidDescr="0" CountChannelsTypes="5">
+            <box Name="DescrEnumChannelsTypes">
+                <PrDescrEnum_T EnumVal="0" EnumName="Отключен"/>
+                <PrDescrEnum_T EnumVal="1" EnumName="Wi-Fi"/>
+                <PrDescrEnum_T EnumVal="2" EnumName="USB"/>
+                <PrDescrEnum_T EnumVal="3" EnumName="COM1"/>
+                <PrDescrEnum_T EnumVal="4" EnumName="COM2"/>
+            </box>
+        </PrDescrEGAIS_Cfg_T>
+        <box Name="TaxationTypes">
+            <PrDescrEnum_T EnumVal="0" EnumName="Не задана"/>
+            <PrDescrEnum_T EnumVal="1" EnumName="Общая"/>
+            <PrDescrEnum_T EnumVal="2" EnumName="Упрощенная: Доход"/>
+            <PrDescrEnum_T EnumVal="3" EnumName="Упрощенная: Доход минус Расход"/>
+            <PrDescrEnum_T EnumVal="4" EnumName="Единый налог на вмененный доход"/>
+            <PrDescrEnum_T EnumVal="5" EnumName="Единый сельскохозяйственный налог"/>
+            <PrDescrEnum_T EnumVal="6" EnumName="Патентная система налогообложения"/>
+        </box>
+    </PrDescrConfigEcr_T>
+    <PrCfgOptions_T CountOptions="98">
+        <PrDataOption_T Num="1" ValueStr="0"/>
+        <PrDataOption_T Num="5" ValueStr="16"/>
+        <PrDataOption_T Num="6" ValueStr="16"/>
+        <PrDataOption_T Num="8" ValueStr="1"/>
+        <PrDataOption_T Num="9" ValueStr="2"/>
+        <PrDataOption_T Num="10" ValueStr="0"/>
+        <PrDataOption_T Num="13" ValueStr="4"/>
+        <PrDataOption_T Num="14" ValueStr="4"/>
+        <PrDataOption_T Num="15" ValueStr="2"/>
+        <PrDataOption_T Num="16" ValueStr="0"/>
+        <PrDataOption_T Num="17" ValueStr="0"/>
+        <PrDataOption_T Num="18" ValueStr="5"/>
+        <PrDataOption_T Num="19" ValueStr="0"/>
+        <PrDataOption_T Num="20" ValueStr="3"/>
+        <PrDataOption_T Num="21" ValueStr="0"/>
+        <PrDataOption_T Num="22" ValueStr="3"/>
+        <PrDataOption_T Num="24" ValueStr="1"/>
+        <PrDataOption_T Num="25" ValueStr="1"/>
+        <PrDataOption_T Num="26" ValueStr="0"/>
+        <PrDataOption_T Num="27" ValueStr="30"/>
+        <PrDataOption_T Num="28" ValueStr="0"/>
+        <PrDataOption_T Num="29" ValueStr="0"/>
+        <PrDataOption_T Num="30" ValueStr="1"/>
+        <PrDataOption_T Num="31" ValueStr="130"/>
+        <PrDataOption_T Num="33" ValueStr="0"/>
+        <PrDataOption_T Num="39" ValueStr="1"/>
+        <PrDataOption_T Num="40" ValueStr="0"/>
+        <PrDataOption_T Num="41" ValueStr="0"/>
+        <PrDataOption_T Num="48" ValueStr="4"/>
+        <PrDataOption_T Num="49" ValueStr="2"/>
+        <PrDataOption_T Num="50" ValueStr="2"/>
+        <PrDataOption_T Num="51" ValueStr="2"/>
+        <PrDataOption_T Num="53" ValueStr="12"/>
+        <PrDataOption_T Num="54" ValueStr="9"/>
+        <PrDataOption_T Num="55" ValueStr="8"/>
+        <PrDataOption_T Num="56" ValueStr="0"/>
+        <PrDataOption_T Num="57" ValueStr="0"/>
+        <PrDataOption_T Num="58" ValueStr="1"/>
+        <PrDataOption_T Num="59" ValueStr="0"/>
+        <PrDataOption_T Num="60" ValueStr="0"/>
+        <PrDataOption_T Num="61" ValueStr="0"/>
+        <PrDataOption_T Num="62" ValueStr="1"/>
+        <PrDataOption_T Num="63" ValueStr="1"/>
+        <PrDataOption_T Num="80" ValueStr="0"/>
+    </PrCfgOptions_T>
+    <PrCfgSections_T CountSections="16">
+        <PrDataSection_T Num="1" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="2" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="3" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="4" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="5" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="6" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="7" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="8" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="9" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="10" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="11" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="12" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="13" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="14" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="15" Type="1" Name="" MaxPrice="0" Tax="0"/>
+        <PrDataSection_T Num="16" Type="1" Name="" MaxPrice="0" Tax="0"/>
+    </PrCfgSections_T>
+    <PrCfgUsers_T CountUsers="17">
+        <PrDataUser_T Num="1" Type="1" Flags="463" FlagsMask="511" Passw="0" Name="Хузина М.А." Post="СТ.КАССИР" InnStr="166025986813"/>
+        <PrDataUser_T Num="2" Type="1" Flags="195" FlagsMask="511" Passw="2" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="3" Type="1" Flags="195" FlagsMask="511" Passw="3" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="4" Type="1" Flags="195" FlagsMask="511" Passw="4" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="5" Type="1" Flags="195" FlagsMask="511" Passw="5" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="6" Type="1" Flags="195" FlagsMask="511" Passw="6" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="7" Type="1" Flags="195" FlagsMask="511" Passw="7" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="8" Type="1" Flags="195" FlagsMask="511" Passw="8" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="9" Type="1" Flags="195" FlagsMask="511" Passw="9" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="10" Type="1" Flags="195" FlagsMask="511" Passw="10" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="11" Type="1" Flags="195" FlagsMask="511" Passw="11" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="12" Type="1" Flags="195" FlagsMask="511" Passw="12" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="13" Type="1" Flags="195" FlagsMask="511" Passw="13" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="14" Type="1" Flags="195" FlagsMask="511" Passw="14" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="15" Type="1" Flags="195" FlagsMask="511" Passw="15" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="16" Type="1" Flags="195" FlagsMask="511" Passw="16" Name="" Post="КАССИР" InnStr=""/>
+        <PrDataUser_T Num="17" Type="2" Flags="62" FlagsMask="62" Passw="22" Name="Хузина М.А." Post="АДМИНИСТРАТОР" InnStr="166025986813"/>
+    </PrCfgUsers_T>
+    <PrCfgTaxes_T CountTaxes="5">
+        <PrDataTax_T Num="1" Type="2" Percent="0" Name="НДС 0%"/>
+        <PrDataTax_T Num="2" Type="2" Percent="1000" Name="НДС 10%"/>
+        <PrDataTax_T Num="3" Type="3" Percent="1000" Name="НДС 10/110"/>
+        <PrDataTax_T Num="4" Type="2" Percent="1800" Name="НДС 18%"/>
+        <PrDataTax_T Num="5" Type="3" Percent="1800" Name="НДС 18/118"/>
+    </PrCfgTaxes_T>
+    <PrCfgTextHdr_T Type="1" CountStrings="6">
+        <PrTextStr_T Num="1" Font="8" Str="   &quot;Coffee's Street&quot;"/>
+        <PrTextStr_T Num="2" Font="8" Str=""/>
+        <PrTextStr_T Num="3" Font="8" Str=""/>
+        <PrTextStr_T Num="4" Font="8" Str=""/>
+        <PrTextStr_T Num="5" Font="8" Str=""/>
+        <PrTextStr_T Num="6" Font="8" Str=""/>
+    </PrCfgTextHdr_T>
+    <PrCfgTextEnd_T Type="2" CountStrings="6">
+        <PrTextStr_T Num="1" Font="8" Str="        СПАСИБО"/>
+        <PrTextStr_T Num="2" Font="8" Str=""/>
+        <PrTextStr_T Num="3" Font="8" Str=""/>
+        <PrTextStr_T Num="4" Font="8" Str=""/>
+        <PrTextStr_T Num="5" Font="8" Str=""/>
+        <PrTextStr_T Num="6" Font="8" Str=""/>
+    </PrCfgTextEnd_T>
+    <PrCfgGprs_T LoginStr="" PasswStr="" ApnStr="" NumBalanceStr=""/>
+    <PrCfgWiFi_T SsidStr="router65" PasswStr="temp658244" DhcpEnable="1" IpAddr="0.0.0.0" NetMask="0.0.0.0" Gateway="0.0.0.0" ActiveItem="1">
+        <PrWiFiItem_T Num="1" SsidStr="router65" PasswStr="temp658244" DhcpEnable="1" IpAddr="0.0.0.0" NetMask="0.0.0.0" Gateway="0.0.0.0"/>
+        <PrWiFiItem_T Num="2" SsidStr="MTS8214F-977A" PasswStr="09671911" DhcpEnable="1" IpAddr="0.0.0.0" NetMask="0.0.0.0" Gateway="0.0.0.0"/>
+        <PrWiFiItem_T Num="3" SsidStr="НЕ ЗАДАНА" PasswStr="" DhcpEnable="1" IpAddr="0.0.0.0" NetMask="0.0.0.0" Gateway="0.0.0.0"/>
+    </PrCfgWiFi_T>
+    <PrCfgOfd_T IpAddrServer="91.107.114.10" PortServer="7777" PeriodConnSec="300" PeriodFMemSec="60" ChannelType="2" Tag="0" UrlServerStr="k-server.1-ofd.ru" UrlCheckStr="https://consumer.1-ofd.ru/" NameOfdStr="Первый ОФД" InnOfdStr="7709364346" UrlOfdStr="www.1-ofd.ru"/>
+    <PrCfgFMem_T TaxationFlags="2" EcrModeFlags="0" PayAgentFlags="0" UserNameStr="Индивидуальный предприниматель ХУЗИНА МАРИЯ АЛЕКСАНДРОВНА" AddrCommerceStr="644043, Омская обл., г. Омск, ул. Красный Путь, дом 89, к.2" PlaceCommerceStr="Кафе &quot;Coffee_s Street&quot;" InnStr="166025986813" RegNumStr="0001672238050177" UrlAddrFnsStr="www.nalog.ru" MailAddrOwnerStr="noreply@1-ofd.ru" EcrModeFlagsExt="0" AutomatNumberStr=""/>
+    <PrCfgTONames_T CountTONames="4">
+        <PrTOName_T Num="1" NameStr="Десерты, напитки"/>
+        <PrTOName_T Num="2" NameStr="ВОЗВРАТ ПРИХОДА"/>
+        <PrTOName_T Num="3" NameStr="РАСХОД"/>
+        <PrTOName_T Num="4" NameStr="ВОЗВРАТ РАСХОДА"/>
+    </PrCfgTONames_T>
+    <PrEGAIS_Cfg_T KppStr="" ChannelType="0" IpAddr="0.0.0.0" Port="0"/>
+</Data>

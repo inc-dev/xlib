@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="RawTest.exe"/>
+    <OBJFILES value="D:\Temp\OBJ\UnitMain.obj D:\Temp\OBJ\xRawTest.obj 
+      D:\Temp\OBJ\xxAdapters.obj D:\Temp\OBJ\xxArray.obj D:\Temp\OBJ\xxAtom.obj 
+      D:\Temp\OBJ\xxContainerAdapters.obj D:\Temp\OBJ\xxDataAccess.obj 
+      D:\Temp\OBJ\xxDateTime.obj D:\Temp\OBJ\xxDecodeStr.obj 
+      D:\Temp\OBJ\xxList.obj D:\Temp\OBJ\xxOperators.obj 
+      D:\Temp\OBJ\xxProperty.obj D:\Temp\OBJ\xxPtr.obj 
+      D:\Temp\OBJ\xxSmallStr.obj D:\Temp\OBJ\xxSpinLock.obj 
+      D:\Temp\OBJ\xxTypeInfo.obj D:\Temp\OBJ\xxTypes.obj 
+      D:\Temp\OBJ\xxBorlandDateTimeDecode.obj 
+      D:\Temp\OBJ\xxNoThreadAtomicRoutines.obj 
+      D:\Temp\OBJ\xxWindowsAtomicRoutines.obj D:\Temp\OBJ\xxCompare.obj 
+      D:\Temp\OBJ\xxFind.obj D:\Temp\OBJ\xxPortion.obj 
+      D:\Temp\OBJ\xxConsoleLogger.obj D:\Temp\OBJ\xxFileBuffer.obj 
+      D:\Temp\OBJ\xxFileDirWork.obj D:\Temp\OBJ\xxLogger.obj"/>
+    <RESFILES value="RawTest.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES)"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value=""/>
+    <SPARELIBS value="rtl.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi dbrtl.bpi adortl.bpi vcldb.bpi vclx.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi vclie.bpi xmlrtl.bpi inet.bpi 
+      inetdbbde.bpi inetdbxpress.bpi inetdb.bpi nmfast.bpi webdsnap.bpi 
+      bcbie.bpi websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      indy.bpi bcb2kaxserver.bpi"/>
+    <PATHCPP value=".;..\Units;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base;..\..\Base\NATIVE;..\..\Base\NATIVE;..\..\Base\NATIVE;..\..\Base\Algorithms;..\..\Base\Algorithms;..\..\Base\Algorithms;..\..\Utils;..\..\Utils;..\..\Utils;..\..\Utils"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT;_RTLDLL;USEPACKAGES"/>
+    <MAINSOURCE value="RawTest.bpf"/>
+    <INCLUDEPATH value="..\..\Utils;..\..\Base\Algorithms;..\..\Base\NATIVE;..\..\Base;..\Units;&quot;D:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;D:\Work\!Торговый комплекс\xLib\tests\RawTest&quot;;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="..\..\Utils;..\..\Base\Algorithms;..\..\Base\NATIVE;..\..\Base;..\Units;&quot;D:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;D:\Work\!Торговый комплекс\xLib\tests\RawTest&quot;;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I..\..\Utils -I..\..\Base\Algorithms -I..\..\Base\NATIVE -I..\..\Base 
+      -I..\Units -I&quot;D:\Program Files\Borland\CBuilder6\Projects&quot; 
+      -I&quot;D:\Work\!Торговый комплекс\xLib\tests\RawTest&quot; -I$(BCB)\include 
+      -I$(BCB)\include\vcl -src_suffix cpp -D_DEBUG -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -tWC 
+      -tWM -c"/>
+    <PFLAGS value="-N2D:\Temp\OBJ -N0D:\Temp\OBJ -$YD -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-ID:\Temp\OBJ -D&quot;&quot; -ap -Tpe -x -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0x32.obj $(PACKAGES) Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="RawTest.res" FORMNAME="" UNITNAME="RawTest.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="RawTest.bpf" FORMNAME="" UNITNAME="RawTest" CONTAINERID="BPF" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UnitMain.cpp" FORMNAME="" UNITNAME="UnitMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\Units\xRawTest.cpp" FORMNAME="" UNITNAME="xRawTest" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxAdapters.cpp" FORMNAME="" UNITNAME="xxAdapters.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxArray.cpp" FORMNAME="" UNITNAME="xxArray.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxAtom.cpp" FORMNAME="" UNITNAME="xxAtom.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxContainerAdapters.cpp" FORMNAME="" UNITNAME="xxContainerAdapters.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxDataAccess.cpp" FORMNAME="" UNITNAME="xxDataAccess.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxDateTime.cpp" FORMNAME="" UNITNAME="xxDateTime.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxDecodeStr.cpp" FORMNAME="" UNITNAME="xxDecodeStr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxList.cpp" FORMNAME="" UNITNAME="xxList.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxOperators.cpp" FORMNAME="" UNITNAME="xxOperators.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxProperty.cpp" FORMNAME="" UNITNAME="xxProperty.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxPtr.cpp" FORMNAME="" UNITNAME="xxPtr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxSmallStr.cpp" FORMNAME="" UNITNAME="xxSmallStr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxSpinLock.cpp" FORMNAME="" UNITNAME="xxSpinLock.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxTypeInfo.cpp" FORMNAME="" UNITNAME="xxTypeInfo.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\xxTypes.cpp" FORMNAME="" UNITNAME="xxTypes.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\NATIVE\xxBorlandDateTimeDecode.cpp" FORMNAME="" UNITNAME="xxBorlandDateTimeDecode.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\NATIVE\xxNoThreadAtomicRoutines.cpp" FORMNAME="" UNITNAME="xxNoThreadAtomicRoutines.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\NATIVE\xxWindowsAtomicRoutines.cpp" FORMNAME="" UNITNAME="xxWindowsAtomicRoutines.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\Algorithms\xxCompare.cpp" FORMNAME="" UNITNAME="xxCompare.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\Algorithms\xxFind.cpp" FORMNAME="" UNITNAME="xxFind.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Base\Algorithms\xxPortion.cpp" FORMNAME="" UNITNAME="xxPortion.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Utils\xxConsoleLogger.cpp" FORMNAME="" UNITNAME="xxConsoleLogger" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Utils\xxFileBuffer.cpp" FORMNAME="" UNITNAME="xxFileBuffer.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Utils\xxFileDirWork.cpp" FORMNAME="" UNITNAME="xxFileDirWork.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\Utils\xxLogger.cpp" FORMNAME="" UNITNAME="xxLogger.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1049
+CodePage=1251
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=1
+Item0=..\..\Base\Algorithms;..\..\Base\NATIVE;..\..\Base;..\Units;D:\Program Files\Borland\CBuilder6\Projects;D:\Work\!Торговый комплекс\xLib\tests\RawTest;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=1
+Item0=..\..\Base\Algorithms;..\..\Base\NATIVE;..\..\Base;..\Units;D:\Program Files\Borland\CBuilder6\Projects;D:\Work\!Торговый комплекс\xLib\tests\RawTest;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=1
+Item0=D:\Temp\OBJ
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

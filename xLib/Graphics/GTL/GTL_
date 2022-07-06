@@ -1,0 +1,36 @@
+Графическая шаблонная библиотека
+
+
+Требования к полотну(картинке)
+обязательные 
+int GetWidth()  ширина 
+int GetHeigth() высота 
+    PixelType   тип пикселя
+inline PixelType GetPixel(X,Y) получить пиксел
+inline SetPixel(X,Y,PixelType) записать пиксел
+
+PixelIterator GetPixelIterator(X,Y)
+inline PixelIterator.IncX(){p++;}
+inline PixelIterator.IncY(){p--;}
+inline PixelIterator.DecX(){p+=shift;}
+inline PixelIterator.DecY(){p+=shift;}
+inline PixelType & PixelIterator.Pixel(){return *p;}
+
+необязательные
+...
+
+необязательные требования к пикселу 
+возможность селективности алгоритмов как по типу компонентов так и по структуре пиксела
+
+
+
+поддержка накапливаемых и усредняемых векторов цвета.
+RGB[A] Grey CMY[K] A
+фотматы хранения 1,2,4 целочисленные байты, float, возможно RGB16bit 
+
+дейбариз
+маштабирование
+перевод в чб
+
+
+для плавного изменения элементов необходимы увеличиные типы
